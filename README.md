@@ -38,7 +38,7 @@ The **Stomleser App** is a Flutter application developed to replicate a custom U
 ## Screenshots
 
 ### Device Control Screen
-![Device Control Screen](assets/image/stromleser.png)
+![Device Control Screen](assets/image/stromlesser_screensho.jpg)
 
 ---
 
@@ -53,15 +53,13 @@ The **Stomleser App** is a Flutter application developed to replicate a custom U
 
 1. **Clone the repository**:
 
-git clone https://github.com/yourusername/device-control-app.git
-Navigate to the project directory:
-cd device-control-app
-Get the dependencies:
-flutter pub get
-Run the app:
-flutter run
-Usage
-Once the app is running, you’ll see the main device control screen. You can:
+- git clone https://github.com/yourusername/device-control-app.git
+- Navigate to the project directory:
+- cd device-control-app
+- Get the dependencies:
+- flutter pub get
+- Run the app:
+- flutter run
 
 ## Dependencies
 - flutter/cupertino.dart - For iOS-specific icons and widgets.
